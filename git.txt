@@ -32,3 +32,8 @@ Let's go over some common git commands!
 15. Run `git status` again. Now how does it look?
 
 16. Run `git push origin main`. The names following the 'push' describe the destination of your changes. "origin" is the default name for the repository to which you push local changes and "main" is the default branch name. If you are connected to other repositories or are working on other branches (more on this later), you'll want to adjust these parameters in the `git push` command.
+
+17. (Time permitting) Make a change (or add a file) to the repo on GitHub.
+
+18. (Time permitting) Run `git pull` to bring in those changes into your local copy.
+
